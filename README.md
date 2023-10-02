@@ -1,7 +1,7 @@
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Me2XBaYk)
 
-Deployed Page : https://aryansoni811.github.io/pricing-page-aryansoni811-main/src/
+Deployed Page : https://aryansoni811.github.io/pricing-page-aryansoni811-main/
 
 # 💰 Pricing Page with Tailwind CSS
 
